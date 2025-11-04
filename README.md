@@ -80,11 +80,21 @@ Segmentation helps businesses personalize marketing strategies, retain customers
 ---
 
 ## 🧾 Results and Insights
-- Segmented customers into 3–5 distinct groups based on purchasing patterns.  
-- Identified high-value and at-risk customers.  
-- Provided data-driven recommendations for marketing strategies.  
+- The K-Means algorithm grouped customers into 4 segments:
+  - **Cluster 0:** High-spending loyal customers  
+  - **Cluster 1:** Medium-frequency, average spenders  
+  - **Cluster 2:** Low-value one-time buyers  
+  - **Cluster 3:** Inactive or lost customers  
+- The **Elbow Method** suggested 4 as the optimal number of clusters.
+- Average Recency, Frequency, and Monetary scores were highest for Cluster 0.
 
 ---
+
+## 📊 Visualizations
+![RFM Distribution](images/rfm_distribution.png)
+![Customer Segments](images/customer_segments.png)
+
+--
 
 ## 💡 Future Improvements
 - Implement advanced clustering methods (DBSCAN, hierarchical).  
