@@ -91,7 +91,8 @@ Segmentation helps businesses personalize marketing strategies, retain customers
 ---
 
 ## 📊 Visualizations
-![RFM Distribution](images/rfm_distribution.png)
+<img width="472" height="463" alt="image" src="https://github.com/user-attachments/assets/593423d0-dd95-4083-92fc-4be86b7d6fcf" />
+
 ![Customer Segments](images/customer_segments.png)
 
 --
