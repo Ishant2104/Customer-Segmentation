@@ -92,12 +92,12 @@ Segmentation helps businesses personalize marketing strategies, retain customers
 
 ## 📊 Visualizations
 Elbow curve for optimal K value
+
 <img width="472" height="468" alt="image" src="https://github.com/user-attachments/assets/5133d054-9693-45b8-adb6-ebf1bf1fae9b" />
 
+Segments Plot
 
 <img width="472" height="463" alt="image" src="https://github.com/user-attachments/assets/593423d0-dd95-4083-92fc-4be86b7d6fcf" />
-
-![Customer Segments](images/customer_segments.png)
 
 --
 
