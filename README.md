@@ -5,6 +5,9 @@ Customer segmentation in the retail business is vital for improving customer eng
 This project analyzes transactional data from **1/12/2010 to 9/12/2011** to identify different customer groups based on purchasing behavior.  
 Segmentation helps businesses personalize marketing strategies, retain customers, and optimize revenue.
 
+<img width="356" height="507" alt="image" src="https://github.com/user-attachments/assets/84528606-f622-466c-9574-6045e67ccc3e" />
+
+
 ---
 
 ## 🎯 Objectives
@@ -40,7 +43,7 @@ Segmentation helps businesses personalize marketing strategies, retain customers
 **Dataset:** Online Retail Dataset  
 **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)  
 
-- Contains all transactions between **1st December 2010** and **9th December 2011** for a UK-based online retailer.  
+- Contains all 541,909 transactions between **1st December 2010** and **9th December 2011** for a UK-based online retailer.  
 - Each row represents a unique product purchase by a customer.  
 - Key columns:  
   - `InvoiceNo` – Invoice number  
