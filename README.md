@@ -72,9 +72,15 @@ Segmentation helps businesses personalize marketing strategies, retain customers
 - Created **RFM (Recency, Frequency, Monetary)** metrics.  
 - Normalized RFM values for clustering.
 
+  <img width="1400" height="738" alt="image" src="https://github.com/user-attachments/assets/6193011f-65f9-460d-9e39-e21b4f2e732f" />
+
+
 ### 4. Clustering
 - Applied **K-Means** clustering to segment customers.  
-- Determined the optimal number of clusters using the **Elbow Method**.  
+- Determined the optimal number of clusters using the **Elbow Method**.
+
+  <img width="492" height="341" alt="image" src="https://github.com/user-attachments/assets/e9389df9-a0a7-4b9c-914f-2b07440a1826" />
+
 
 ### 5. Visualization
 - Plotted customer segments to interpret behaviors.  
