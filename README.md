@@ -17,6 +17,15 @@ Segmentation helps businesses personalize marketing strategies, retain customers
 
 ---
 
+## 🗂️ Project Files
+- Online_Retail.csv -> CSV file containing more than 5 lacs transactions between 1st December 2010 and 9th December 2011 for a UK-based online retailer
+- Jupyter notebook -> Jupyter file containg clean and commented code
+- Report 1: Applications of Data Science in E-Commerce -> Report on how data science can be useful in E-Commerce market
+- Report 2: Final Report -> Insights of the analysis and recommendations for the company
+
+---
+
+
 ## 🧠 Steps Included
 1. Importing and understanding the dataset  
 2. Data cleaning and preprocessing  
